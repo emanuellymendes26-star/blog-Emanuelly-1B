@@ -1,3 +1,9 @@
 .cabecalho{
-    background-color: beige;
+    background-color: antiquewhite;
+    color: rgb(107, 40, 40);
+}
+
+.conteudo-principal{
+   background-color: rgb(107, 40%, 40%);
+color: antiquewhite;
 }
