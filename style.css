@@ -1,9 +1,33 @@
-.cabecalho{
-    background-color: antiquewhite;
-    color: rgb(107, 40, 40);
+.cabecalho {
+    background-color: rgb(61, 168, 255);
+    color: rgb(5, 26, 121);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
 .conteudo-principal{
-   background-color: rgb(107, 40, 40);
-color: antiquewhite;
+    background-color: rgb(5, 26, 121);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16x;
+}
+
+.imagem-principal {
+    width: 250px;
+    height: 200px;
+}
+
+.cabecalho-paragrafo {
+    font-weight: bold;
+}
+
+.conteudo-autor {
+    font-weight: bold;
+    text-decoration: italic;
+}
+
+.conteudo-principal-texto {
+    font-weight: bold;
 }
